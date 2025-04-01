@@ -5,7 +5,7 @@ export default function App() {
     <div>
       <header className="header">
         <h1>My Profile</h1>
-        <p>나만의 웹사이트를 만들어봐요!</p>
+        <p>나만의 웹사이트</p>
       </header>
 
       <nav className="nav">
